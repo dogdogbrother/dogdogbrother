@@ -23,3 +23,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-996666?logo=Electron&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-CCCCFF?logo=Next.js&logoColor=black)
+
+**📊 Stats:**
+
+![maomao's github stats](https://github-readme-stats.vercel.app/api?username=dogdogbrother&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogdogbrother&layout=compact)
