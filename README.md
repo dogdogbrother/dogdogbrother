@@ -9,7 +9,7 @@
 **👨‍💻 me**
 
 [![Github Stars](https://img.shields.io/github/stars/dogdogbrother?color=2da44e&label=Github%20Star&logo=github)](https://github.com/dogdogbrother)
-[![Juejin](https://img.shields.io/badge/dynamic/json?color=1e80ff&label=稀土掘金&logo=bytedance&logoColor=white&query=%24.data.follower_count&url=https%3A%2F%2Fapi.juejin.cn%2Fuser_api%2Fv1%2Fuser%2Fget%3Fuser_id%3D2189882895384093)](https://juejin.cn/user/2612095360711895)
+[![Juejin](https://img.shields.io/badge/dynamic/json?color=1e80ff&label=稀土掘金&logo=bytedance&logoColor=white&query=%24.data.follower_count&url=https%3A%2F%2Fapi.juejin.cn%2Fuser_api%2Fv1%2Fuser%2Fget%3Fuser_id%3D2612095360711895)](https://juejin.cn/user/2612095360711895)
 [![Blog](https://img.shields.io/badge/-freetoplay-0ea5e9?logo=Bloglovin&logoColor=white&label=博客)](https://freetoplay.netlify.app/)
 [![Frontend Tools](https://img.shields.io/badge/-freetomark-6366f1?logo=Textpattern&logoColor=white&label=前端工具)](https://freetomark.netlify.app/)
 
@@ -26,5 +26,5 @@
 
 **📊 Stats:**
 
-![maomao's github stats](https://github-readme-stats.vercel.app/api?username=dogdogbrother&show_icons=true&hide_title=true&count_private=true)
+![dogdogbrother's github stats](https://github-readme-stats.vercel.app/api?username=dogdogbrother&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogdogbrother&layout=compact)
