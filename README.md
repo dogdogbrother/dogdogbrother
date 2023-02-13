@@ -2,7 +2,9 @@
 
 我叫**worn bus**,暂时是一名前端开发者,执着于技术改变生活,哪怕一点点.所以闲时总是去写一些有的没的,所以即使工作中只用`vue`,但还是熟悉蛮多技术栈的.
 
-**worn bus**指的是电影[《into the wild 荒野生存》](https://baike.baidu.com/item/%E8%8D%92%E9%87%8E%E7%94%9F%E5%AD%98/1894715?fr=aladdin)中男主找到的据点.也许有一天我也会上路,去找到我的归属.
+**worn bus**是一个破败的巴士🚌,电影[《into the wild 荒野生存》](https://baike.baidu.com/item/%E8%8D%92%E9%87%8E%E7%94%9F%E5%AD%98/1894715?fr=aladdin)中男主找到的据点.
+
+也许有一天我也会上路,去找到我的归属.
 
 **👨‍💻 me**
 
@@ -13,8 +15,10 @@
 
 **🔧 Frameworks and Tools:**
 
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=333)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4e4e4e?logo=javascript&logoColor=#F7DF1E)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron?logo=Electron&)
