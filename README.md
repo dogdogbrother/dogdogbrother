@@ -21,4 +21,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron?logo=Electron&)
+![Electron](https://img.shields.io/badge/-Electron-996666?logo=Electron&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-CCCCFF?logo=Next.js&logoColor=black)
